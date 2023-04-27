@@ -1,0 +1,98 @@
+                                                                     Software Engineering Assignment
+
+                                                                            MODULE:1 (SLDC)
+                                                                      
+
+
+
+-> What is software? what is software engineering?
+A) Software is a collection of codes, documents, and triggers that does a specifec job and fills a specific requirement.
+   Engineering is a development of products using best practices, principles, and methods.
+
+-> Explain types of software.
+A) (1) Application software:- The most common type of software, application software is a computer software package that performs a specific function for a user, or in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern applications include office suites, graphics software, databases and database management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+
+(2) System software:- These software programs are designed to run a computer's application programs and hardware. System software coordinates the activities and functions of the hardware and software. In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. The OS is the best example of system software; it manages all the other computer programs. Other examples of system software include the firmware, computer language translators and system utilities.
+
+(3) Driver software:- Also known as device drivers, this software is often considered a type of system software. Device drivers control the devices and peripherals connected to a computer, enabling them to perform their specific tasks. Every device that is connected to a computer needs at least one device driver to function. Examples include software that comes with any nonstandard hardware, including special game controllers, as well as the software that enables standard hardware, such as USB storage devices, keyboards, headphones and printers.
+
+(4) Middleware:- The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and Word. It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer with a different OS. It also enables newer applications to work with legacy ones.
+Programming software. Computer programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs. Examples of programming software include assemblers, compilers, debuggers and interpreters.
+
+-> What is SDLC? Explain each phase of SDLC.
+A) An SDLC (software development life cycle) is a big-picture breakdown of all the steps involved in software creation (planning, coding, testing, deploying, etc.). Companies define custom SDLCs to create a predictable, iterative framework that guides the team through all major stages of development.
+   
+   Stage 1:- Planning and requirement analysis
+
+Requirement Analysis is the most important and necessary stage in SDLC.
+
+The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.
+
+Planning for the quality assurance requirements and identifications of the risks associated with the projects is also done at this stage.
+
+Business analyst and Project organizer set up a meeting with the client to gather all the data like what the customer wants to build, who will be the end user, what is the objective of the product. Before creating a product, a core understanding or knowledge of the product is very necessary.
+
+For Example, A client wants to have an application which concerns money transactions. In this method, the requirement has to be precise like what kind of operations will be done, how it will be done, in which currency it will be done, etc.
+
+Once the required function is done, an analysis is complete with auditing the feasibility of the growth of a product. In case of any ambiguity, a signal is set up for further discussion.
+
+Once the requirement is understood, the SRS (Software Requirement Specification) document is created. The developers should thoroughly follow this document and also should be reviewed by the customer for future reference.
+
+
+  Stage 2:- Defining Requirements
+
+Once the requirement analysis is done, the next stage is to certainly represent and document the software requirements and get them accepted from the project stakeholders.
+
+This is accomplished through "SRS"- Software Requirement Specification document which contains all the product requirements to be constructed and developed during the project life cycle.
+
+
+  Stage 3:- Designing the Software
+
+The next phase is about to bring down all the knowledge of requirements, analysis, and design of the software project. This phase is the product of the last two, like inputs from the customer and requirement gathering.
+
+  Stage 4:- Developing the project
+
+
+In this phase of SDLC, the actual development begins, and the programming is built. The implementation of design begins concerning writing code. Developers have to follow the coding guidelines described by their management and programming tools like compilers, interpreters, debuggers, etc. are used to develop and implement the code.
+
+  Stage 5:- Testing
+
+After the code is generated, it is tested against the requirements to make sure that the products are solving the needs addressed and gathered during the requirements stage.
+
+During this stage, unit testing, integration testing, system testing, acceptance testing are done.
+
+  Stage 6:- Deployment
+
+Once the software is certified, and no bugs or errors are stated, then it is deployed.
+
+Then based on the assessment, the software may be released as it is or with suggested enhancement in the object segment.
+
+After the software is deployed, then its maintenance begins.
+
+  Stage 7:- Maintenance
+
+Once when the client starts using the developed systems, then the real issues come up and requirements to be solved from time to time.
+
+This procedure where the care is taken for the developed product is known as maintenance.
+
+
+-> What is DFD? Create a DFD diagram on Flipkart.
+A) A data flow diagram (DFD) is a graphical or visual representation using a standardized set of symbols and notations to describe a business's operations through data movement. They are often elements of a formal methodology such as Structured Systems Analysis and Design Method (SSADM).
+
+
+-> What is Use case Diagram? Create a use-case on bill payment on paytm.
+A) Some people don't know what use case is, while the rest under-estimated the usefulness of use cases in developing a good software product. Is use case diagram underrated? I hope you will find the answer when finished reading this article.
+
+-> Define the terms: Website, Webpage, Web browser, Web server, HTML,CSS.
+A) 1.) Website :- A collection of web pages which are grouped together and usually connected together in various ways. Often called a "web site" or a "site."
+
+2.) Webpage :- A document which can be displayed in a web browser such as Firefox, Google Chrome, Opera, Microsoft Edge, or Apple Safari. These are also often called just "pages."
+
+3.) Web broswer :- Web Browser, as the name suggests, is basically a software application that can be installed on the computer, mobile, etc., and is used by user or visitor to have access or retrieve information or data such as web pages, image, video, etc. from the web server.  
+
+4.) Web server :- The Web server accepts, approves, and responds to the request made by the web browser for a web document or service.
+
+5.) HTML :- 1.) Publish online documents with headings, text, tables, lists, photos, etc.
+            2.) Retrieve online information via hypertext links, at the click of a button.
+            3.) Design forms for conducting transactions with remote services, for use in searching for information, making reservations, ordering products, etc.
+            4.)Include spread-sheets, video clips, sound clips, and other applications directly in their documents.
