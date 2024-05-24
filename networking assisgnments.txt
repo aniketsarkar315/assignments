@@ -1,0 +1,529 @@
+                                                                               MODULE 5. 
+
+                                                             NETWORK FUNDAMAENTALS AND BUILDING NETWORKS 
+
+. Beginner Question
+
+1. What is Network?
+ANS->  Network is a group of devices which are connected together for sharing resources like files, folder, Printer, Internet etc.
+
+2. List Common Network Components.
+ANS-> (1.)LAN:- Local area network
+      (2.)WAN:- Wide area network
+      (3.)MAN:- Metropolitan area network
+      (4.)CAN:- Campus area network  
+      (5.)PAN:- Personal area network
+
+. Intermediate Question
+
+1. Explain application of network.
+ANS-> There are six types of applications are there in networking are as follow:-
+    (1.)Web Browsers:- Web browsers allow users to access and use the websites and web based applications over the internet.
+    (2.)Email Clients:- Email Clients is use for the sending, receiving, and management of email messages over the email server.
+    (3.)File Transfer Protocols:- These applications gives the access of the transfer of files between devices and servers.
+    (4.)Messaging Apps:- Messaging applications allowing the real time text, voice, and video communication between single users and groups.
+    (5.)Video Conferencing Tools:- Video conferencing application giving the virtual meetings, webinars, and remote collaboration through live video and audio communication.
+    (6.)Remote Desktop application:- These applications allow users to access and control remote computers over a network, facilitating technical support, troubleshooting, and remote work.
+
+2. What do you mean by Node?
+ANS-> A node is a point of connection. Technically, a traffic intersection is a node since multiple roads connect at that point.
+
+. Advance Question 
+
+1. List types of devices.
+ANS-> (1.) Hub
+      (2.) Switch
+      (3.) Router
+      (4.) Bridge
+      (5.) Gateway
+      (6.) Modem
+      (7.) Repeater
+      (8.) Access Point
+
+2. Explain types of router.
+ANS-> (1.) Wireless :- It is present in the office, home, railway station, etc. It creates a wireless signal. Suppose you are in the office; you can connect to the internet using wireless signals because your laptop is within range.
+      (2.) Wired Router:-  A wire is available to connect to the network. If we visit a bank, small college, or office, we can observe that a PC or laptop connects to the internet using an Ethernet cable that it plugs into a wired router.
+      (3.) Edge Router:- It sits at the edge of the network’s backbone and can connect to the core routers. A router can be wired or wireless, and its purpose is to distribute internet data packets between one or more networks.
+      (4.) Core Router:- It is designed to operate in the internet backbone or core. Also, it supports multiple telecommunication interfaces of the highest speed and usage in the core internet. It can forward IP packets at full speed on all of them.
+      (5.) Virtual Router:- It is the default for a computer-sharing network. It functions per the virtual router redundancy protocol (VRRP) and becomes active when the main or primary router fails or becomes disabled.
+
+
+Topic: Types of Network 
+
+. Beginner Question
+
+1. What is Difference Between a LAN, MAN, WAN?
+ANS-> (A.) LAN 
+     (1.)Cost is low.
+     (2.)Network size is Small.
+     (3.)Speed is Fastest.
+     (4.)Transmission media type is twisted pair.
+     (5.)Numbers of computer is smallest.
+ (B.) MAN
+     (1.)Cost is High.
+     (2.)Network size is Larger.
+     (3.)Speed is Slower.
+     (4.)Transmission media type is twisted pair and fibre optic cables.
+     (5.)Numbers of computer is Large.
+ (C.) WAN
+    (1.)Cost is Highest.
+    (2.)Network size Largest.
+    (3.)Speed is Slowest.
+    (4.)Transmission media type is Fiber optic, radio wave and satellite.
+    (5.)Numbers of computer is Largest.
+
+2. Common Network Components.
+ANS-> There are some components of network are as follow:-
+    (1.) Router 
+    (2.) Repeater
+    (3.) Network Interface card
+    (4.) Cable
+    (5.) Firewall
+    (6.) Metropolitan area network
+    (7.) Campus network
+    (8.) Switch
+    (9.) MUX
+    (10.) Access Point
+
+. Intermediate  Question
+
+1. Explain Wide Area Network.
+ANS->  A wide-area network is the technology that connects your offices, data centers, cloud applications, and cloud storage together.  Wide area network spans beyond a single or large campus to include multiple locations spread or even the world. WAN is the internet because it is a collection of many international that connect to each other.
+
+2. Explain Network Backbone.
+ANS-> A backbone network is a part of a computer network which interconnects networks, providing a path for the exchange of information between different LANs or subnetworks. A backbone can tie together diverse networks in the same building, in different buildings in a campus environment, or over wide areas. A large corporation that has many locations may have a backbone network that ties all of the locations together.
+
+3.  Explain CAN.
+ANS->  A campus area network is a computer network that consists of multiple interconnected local area networks in order to cover a limited geographic area, such as a military base, school campus, university campus, etc. The CAN network infrastructure is usually made up of switches and access points that link the devices together, allowing them to communicate with each other. The wired connections are usually faster and more reliable, while the wireless connections offer greater flexibility and mobility.
+
+. Advance Question
+
+1. Define Physical Network Topologies.
+ANS->  Physical topology describes the actual or the physical layout of a network, such as the physical arrangement of wires, media, or cables in a network.
+
+2. Network Architecture: Peer-to-Peer.
+ANS-> Peer-to-peer architecture is a commonly used computer networking architecture in which each workstation, or node, has the same capabilities and responsibilities. It is often compared and contrasted to the classic client/server architecture, in which some computers are dedicated to serving others. Peer-to-Peer may also be used to refer to a single software program designed so that each instance of the program may act as both client and server, with the same responsibilities and status.
+
+3. Point-to-multipoint network.
+ANS-> point-to-multipoint communication is communication which is accomplished via a distinct type of one-to-many connection, providing multiple paths from a single location to multiple locations. The term point-to-multipoint wireless communications relates to fixed wireless data communications for Internet or voice over IP via radio or microwave frequencies in the gigahertz range.
+
+Topic: Network Devices
+
+. Beginner Question
+
+1. Why we use Network and Devices.
+ANS-> The primary purpose of network devices is to transmit and receive data quickly and securely. Network Devices is a broad term that encompasses a range of communication equipment including hubs, switches, routers, bridges, gateways, load balancers, modems, repeaters, and more.
+
+2. Explain Switch?
+ANS-> A network switch connects users, applications, and equipment across a network so that they can communicate with one another and share resources.
+
+. Intermediate Question
+
+1. Define list of cables in use of network.
+ANS-> A.) Coaxial Cables:- Coaxial cables contain a centre conductor and a metal shield insulated by a plastic layer placed in between.
+      B.) Shielded Twisted Pair Cables:- They were developed for computer networks and are an excellent choice for areas with high interference. Shielded twisted pair cables are also used to expand any distance between cables.
+      C.) Unshielded Twisted Pair Cables:-  Unshielded twisted pair cables, or UTP cables, are widely used in industrial computers and telecommunication companies. The conductors present in UTP cables form a circuit that stops any EMI. Similarly to STP cables, unshielded twisted pairs are colourful wires wrapped around each other and then wrapped altogether in a plastic sheath.
+      D.) Fibre Optic Cables:- Fibre optic cables are networking cables that contain either a glass or a plastic core, shielded by a cladding, a buffer and a jacket.
+
+2. Explain Define Access point.
+ANS-> An access point (AP) is a term used for a network device that bridges wired and wireless networks. Consumer APs are often called a “wireless routers” because they typically also serve as both internet routers and firewalls.
+
+3. Which types of transmission modes in computer network.
+ANS-> The transmission modes are of three major types:
+    a.) Simplex Transmission Mode.
+    b.) Half Duplex Transmission Mode.
+    c.) Full Duplex Transmission Mode.
+
+. Advance Question 
+
+1. Explain Repeater and router.
+ANS-> a.) Repeater – A repeater operates at the physical layer. Its job is to regenerate the signal over the same network before the signal becomes too weak or corrupted to extend the length to which the signal can be transmitted over the same network.
+      b.)  Routers – A router is a device like a switch that routes data packets based on their IP addresses. The router is mainly a Network Layer device. Routers normally connect LANs and WANs and have a dynamically updating routing table based on which they make decisions on routing the data packets. 
+
+2.) What is multiplexer?
+ANS-> Multiplexers are part of computer systems to select data from a specific source, be it a memory chip or a hardware peripheral. A computer uses multiplexers to control the data and address buses, allowing the processor to select data from multiple data sources.
+
+3. Explain MODEM.
+ANS-> The modem is defined as a networking device that is used to connect devices connected in the network to the internet. The main function of a modem is to convert the analog signals that come from telephone wire into a digital form. The modem is also known as a signal translator as it translates one signal into another signal by modulating the digital signal into an analog signal for transmission and then demodulates receiving analog signals into digital signals.
+
+ Topic: Install and configure DHCP, DNS.
+
+. Beginner Question 
+
+1. Explain DHCP Dynamic host configuration protocol.
+ANS-> DHCP stands for Dynamic Host Configuration Protocol. It is the critical feature on which the users of an enterprise network communicate. DHCP helps enterprises to smoothly manage the allocation of IP addresses to the end-user clients’ devices such as desktops, laptops, cellphones, etc.DHCP is based on a client-server model and based on discovery, offer, request, and ACK.
+
+2. Application of DHCP with one example.
+ANS->  a.) Valid TCP/IP configuration parameters for all clients on the network.
+       b.) Valid IP addresses, maintained in a pool for assignment to clients, as well as excluded addresses.
+       c.) Reserved IP addresses associated with particular DHCP clients. This allows consistent assignment of a single IP address to a single DHCP client.
+       d.) The lease duration, or the length of time for which the IP address can be used before a lease renewal is required.
+       Eg:- DHCP options are Router (default gateway), DNS Servers, and DNS Domain Name.
+
+. Intermediate Question 
+
+1. Explain Domain naming Services.
+ANS-> The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+2. Application of DNS with one example.
+Ans-> a.) A user types ‘example.com’ into a web browser and the query travels into the Internet and is received by a DNS recursive resolver.
+      b.) The resolver then queries a DNS root nameserver (.).
+      c.) The root server then responds to the resolver with the address of a Top Level Domain (TLD) DNS server (such as .com or .net), which stores the information for its domains.
+      d.)  The resolver then makes a request to the .com TLD.
+      Eg:- DNS translates hostnames to IP addresses. People often think of DNS like the phone book, but instead of translating names to phone numbers, it translates names to IP addresses. For example, www.apple.com translates to 17.253. 207.54 . 
+
+Topic:- Network Topologies
+
+. Beginner Question 
+
+1. What are the 5 network topologies?
+ANS->   There are 5 popular types of topology,
+       a.) Bus Topology.
+       b.) Ring Topology.
+       c.) Tree Topology.
+       d.) Star Topology.
+       e.) Mesh Topology.
+
+2. What is Internet topology?
+ANS->  A network topology is the physical and logical arrangement of nodes and connections in a network.
+
+3. What is protocol?
+ANS-> a protocol is a set of rules for formatting and processing data. Network protocols are like a common language for computers.
+
+.  Intermediate Question
+
+1. What is the most common network topology?
+ANS-> Star topology is the most commonly used topology system. Every node connects to a central network device in this layout, like a hub, switch or computer. Star topology is centralized in nature, making it user-friendly, reliable, and easy to manage.
+
+2. Explain star topology in networking?
+ANS-> A Star topology is a type of network topology in which all the devices or nodes are physically connected to a central node such as a router, switch, or hub. The central node (hub) acts as a server, and the connecting nodes act as clients. 
+
+. Advance Question
+
+1. Explain Hybrid topology.
+ANS-> Hybrid topology is a network structure that combines two or more different types of topologies, such as star, ring, bus, or mesh. It's designed to leverage the strengths and minimize the weaknesses of the individual topologies it incorporates.
+
+2. What is physical and logical topology?
+ANS-> A physical topology describes how network devices are physically connected - in other words, how devices are actually plugged into each other. We're talking about cables, wireless connectivity, and more. A logical topology describes how network devices appear to be connected to each other.
+
+3. What are the types of logical topology?
+ANS-> Logical topology refers to the manner in which data passes through a network, irrespective of its physical design. It focuses on how devices communicate across the physical network layout. The most common types include bus, star, ring, mesh, and tree topologies.
+
+Topic:- OSI Model
+
+. Beginner Question 
+
+1. What is OSI model explain?
+ANS-> The Open Systems Interconnection (OSI) model is a conceptual framework that divides network communications functions into seven layers. Sending data over a network is complex because various hardware and software technologies must work cohesively across geographical and political boundaries. The OSI data model provides a universal language for computer networking, so diverse technologies can communicate using standard protocols or rules of communication. 
+
+2. List of Application layer protocol.
+ANS-> a.) TELNET 
+      b.) FTP 
+      C.) TFTP
+      D.) NFS
+      E.) SMTP
+      F.) LPD, etc.
+
+3. How many types of protocols are there?
+ANS-> There are three main types of network protocols. These include network management protocols, network communication protocols and network security protocols: Communication protocols include basic data communication tools like TCP/IP and HTTP.
+
+. Intermediate Question
+ 
+1. What is the difference between TCP IP model and OSI model?
+ANS->  TCP/IP :- 
+      a. TCP/IP stands for Transmission Control Protocol/Internet Protocol.
+      b. It has 4 layers.
+      c. Delivery of the package is not guaranteed in TCP/IP Model.
+      d. Replacing the tools is not easy as it is in OSI Model.
+
+      OSI Model:-
+      a. OSI stands for Open Systems Interconnection.
+      b. It has 7 layers.
+      c. Delivery of the package is guaranteed in OSI Model.
+      d. Replacement of tools and changes can easily be done in this model.
+
+2. What is TCP IP networking?
+ANS-> TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet.
+
+. Advance Question
+
+1. What is a wired Internet connection?
+ANS-> A wired network uses cables to connect devices, such as laptop or desktop computers, to the Internet or another network.
+
+2. What are the disadvantages of wired networks?
+ANS-> Disadvantages of a wired network
+     a. Less mobility for users. 
+     b. Installation time. 
+     c. Maintenance. 
+     d. If not laid properly, wires can make a space look untidy, be a trip hazard or become disconnected easily by accident.
+
+3. .How do I configure network authentication?
+ANS-> Wireless network configuration basics: 5 steps to follow
+      a. Gather network requirements. Before you tackle specific network configuration steps, you need to understand the environment's operational requirements.
+      b. Design and survey. 
+      c. Implement WLAN components. 
+      d. Integrations. 
+      e. Verification testing.
+
+
+4. Practice of Team viewer, Any Desk, Google Hangout, Skype,zoom.
+ANS-> Step 1: Set up TeamViewer on your computers · 
+      Step 2: Control your remote device · 
+      Step 3: Enable Black Screen · 
+      Step 4: Use File Transfer · 
+      Step 5: Print Remotely.
+
+5. Download chrome.
+ANS-> a. Download the installation file.
+      b. If prompted, click Run or Save. If you choose Save, to start installation, either.
+      c. If you're asked, "Do you want to allow this app to make changes to your device," click Yes.
+      d. Start Chrome: Windows 10 and up: A Chrome window opens after everything is done. 
+
+
+6. Configure "date and time" opting in control panel.
+ANS-> Choose Start > Control Panel > Clock, Language, and Region > Date and Time. Click the clock in the taskbar's notification area; then click Change Data and Time Settings. Right-click the taskbar clock and choose Adjust Date/Time.
+
+. Topic :- TCP/IP
+
+. Assignment level basic
+
+1. What is TCP/IP?
+ANS->It is a machine language.
+    . Highlevel
+    . Lowlevel
+
+2. What is the full form of TCP/IP?
+ANS-> Transmission control protocol
+
+. Assignment level Intermediate
+
+1. List out the types of IP.
+ANS-> a. public
+      b. Private
+      c. Static
+      d. Dynamic
+
+2. What is protocol?
+ANS-> Set of Rules
+
+3. DO a practical to set the tcp/ip in network adapter?
+ANS->Do one of the following: For a Wi-Fi network, select Wi-Fi > Manage known networks. Choose the network you want to change the settings for, then select Properties. For an Ethernet network, select Ethernet, then select the Ethernet network you're connected.
+
+
+. Topic :- Cables
+
+
+. Beginner Question
+
+1. Types of cables and connectors?
+ANS-> Cables
+      a. Voice and Data Cables
+      b. Coaxial Cables
+      c. Fiber Optic Cables
+    
+      Connecter
+     a. Ethernet Cable Connectors
+     b. Coaxial Cable Connectors
+     c. USB Connectors
+     d. Fiber Optic Cable Connectors
+
+2. Explain twisted pair cable and shielded twisted pair cable.
+ANS-> Shielded twisted pair cables:- Shielded twisted pair cabling acts as a conducting shield by covering the four pairs of signal-carrying wires as a means to reduce electromagnetic interference.
+       Twisted pair cable:-  Twisted pair cables have two conductors that are generally made up of copper and each conductor has insulation. 
+
+. Intermediate Question
+
+1. Which of these cables connect computers to monitors?
+ANS-> There are four types of computer cable connections to a monitor: VGA, DVI, HDMI and DisplayPort.
+
+2. How do I connect to a shared printer?
+ANS-> Connect a shared printer using Settings
+      a. Select the Start button, then select Settings > Devices > Printers & scanners.
+      b. Under Add printers & scanners, select Add a printer or scanner.
+      c. Choose the printer you want, and then select Add Device.
+
+. Advance Question
+
+1. Which cable that is commonly used to connect a computer to a printer?
+ANS-> Most new printers contain a USB port, making the USB cable the most common way to connect a printer to your PC or Mac.
+
+2. What are the different ports and connectors?
+ANS-> Port
+     a. Serial port
+     b. Parallel port
+     c. USB port
+     d. PS/2 port
+     e. VGA port
+     f. Modem port 
+     g. FireWire Port 
+     h. Sockets
+     i.Infrared Port 
+     j. Game Port 
+     k. Digital Video Interface(DVI) Port
+     l. Ethernet Port
+
+3. How do I connect my laptop to my printer without cable?
+ANS->To connect a wireless printer, follow these steps:
+    a. Select Start > Settings > Bluetooth & devices > Printers & scanners . ...
+    b. Next to Add a printer or scanner, select Add device.
+    c. Wait for it to find nearby printers, then locate the one you want to use, and select Add device.
+
+4.  Application and brief explanation of fiber optic cable and Coaxial cable.
+ANS-> Fiber optic cable
+     a. Optical Fibre transmits data/signals in the form of light.
+     b. Optical fibre is made using plastic and glass.
+     c. Optical fibre is highly efficient and signal loss is negligible.
+     d. Optical fibre is costly and its installation is quite expensive.
+
+     Coaxial cable
+     a. The coaxial cable transmits data/signals in the form of electrical signals.
+     b.  Coaxial cable is prepared using plastic and copper wires.
+     c. Coaxial cable is less efficient.
+     d. Coaxial cable is cheap and its installation is less expensive.
+
+5. Which of following operates at the 5GHzfrequency range?
+ANS-> IEEE 802.11ac - Released in 2013, operates in the 5 GHz frequency band and provides data rates ranging from 450 Mb/s to 1.3 Gb/s (1300 Mb/s).
+
+6. What frequency does 802.11g use?
+ANS-> 2.4 GHz
+
+7. What standard is compatible with 802.11a?
+ANS->  802.11a is incompatible with the 802.11b and 802.11g wireless standards.
+
+
+. Topic :- TCP/IP concepts - IPV6, IPV4
+
+. Beginner QUESTION
+
+1. What is the difference between IPv4 & IPv6? 
+ANS->IPV4
+    a. 32 bits and 6 bytes
+    b. Dependent on the application.
+    c. Decimal form
+
+    IPV6
+    a. 128 bits and 16 bytes.
+    b. Inbuilt security feature in IPV6.
+    C. Hexadecimal form.
+
+2. Explain TCP/IP.
+ANS-> Collection of network Protocol.
+      65535 ports.
+      1 to 1023 server ports/ protocols
+      1024 to  65535 client/ Protocols
+
+3. Explain IPV6 Address with Address structure.
+ANS-> An IPv6 address is 128 bits in length and consists of eight, 16-bit fields, with each field bounded by a colon. Each field must contain a hexadecimal number, in contrast to the dotted-decimal notation of IPv4 addresses. In the next figure, the x's represent hexadecimal numbers.
+
+4. Define IPV6 reserve address.
+ANS->  An Internet Protocol version 6 address (IPv6 address) is a numeric label that is used to identify and locate a network interface of a computer or a network.
+
+5. Explain Difference between public ip and private ip.
+ANS-> A private IP address, such as a home or office network, is assigned to a device on a local network and is used to identify the device within that network. On the other hand, a public IP address is assigned to a device directly connected to the internet and is used to identify the device on the internet.
+
+6. Create straight and cross cables and it's testing.
+ANS-> In this cable, transmitting pins of one side connect with the receiving pins of the other side. The wire at pin 1 on one end of the cable connects to pin 3 at the other end of the cable. The wire at pin 2 connects to pin 6 on the other end of the cable. Remaining wires connect in the same positions at both ends.
+
+. Intermediate Question
+
+1. Brief explanation of ip Addresses.
+ANS-> An Internet Protocol (IP) address is a unique numerical identifier for every device or network that connects to the internet. Typically assigned by an internet service provider (ISP), an IP address is an online device address used for communicating across the internet.
+
+2. What is the advantage of IPv6 over IPv4?
+ANS-> IPv6's advantages over IPv4 signify a fundamental evolution in internet architecture, with expanded address space, efficient routing, enhanced security, and IoT compatibility. Its support for auto-configuration, multicast, anycast, and future-proofing make it the logical choice for internet growth.
+
+3. Assign multiple IPv4 in single network adapter [lan card].
+ANS-> The concept of creating or configuring multiple IP addresses on a single network interface is called IP aliasing, which is very useful for setting up multiple virtual sites on a web server using one single network interface with different IP addresses on a single subnet network.
+
+4. Assign simple IPv6 between two system and ping it.
+ANS-> If you just need a "basic" ping to an IPv6 address, you can do ping 2001:db8:10::50 or ping ipv6 2001:db8:10::50 - the result is exactly the same.
+
+5. Assign and configure simple IPv4 between systems.
+ANS-> Right click to bring up the context menu and select Properties of the network device. Check the box for Internet Protocol Version 4 (TCP/IPv4) and click Properties. Select Advanced to go to the advanced options. Click Add in the IP Settings tab.
+
+. Advance Question
+
+1. Which is faster IPv4 or IPv6?
+ANS-> IPv6 is faster than IPv4 due to its lack of NAT, faster routing, and packet processing.
+
+2. What does TCP do?
+ANS-> Transmission Control Protocol (TCP) is a communications standard that enables application programs and computing devices to exchange messages over a network. 
+
+3. Give security in sharing.
+ANS-> a. Pick a service that offers end-to-end encryption. This protects you from external hackers and also prevents the host itself from viewing your data.
+      b. Always double-check permission settings.
+      c. Run audits on your files to see who is accessing them.
+
+4. Configure "Map network drive".
+ANS-> a. Open File Explorer from the taskbar or the Start menu, or press the Windows logo key + E.
+      b. Select This PC from the left pane. 
+      c. In the Drive list, select a drive letter. 
+      d. In the Folder box, type the path of the folder or computer, or select Browse to find the folder or computer.
+      e. Select Finish.
+
+
+Topic :- IP routing and Routing protocols
+
+. Beginner Question
+
+1. What Is Routing?
+ANS-> A router is a piece of network hardware responsible for forwarding packets to their destinations.
+
+2. How Routing Starts Up?
+ANS-> when a router receives a packet, it reads the headers* of the packet to see its intended destination, like the way a train conductor may check a passenger's tickets to determine which train they should go on.
+
+. Intermediate Question
+
+1. What Is Hybrid Routing Protocol?
+ANS-> A hybrid routing protocol combines the best of both distance-vector and link-state routing strategies.
+
+2. What Are the Range of Ad Values?
+ANS-> The value of the ad ranges from 0 to 255 and it is different for different protocols.
+
+3. What Is an Autonomous System?
+ANS-> An autonomous system (AS) is a very large network or group of networks with a single routing policy. 
+ 
+. Advance Question 
+
+1. Define Static Routing?
+ANS-> Static routing is an IP-based routing system that relies on manually configured routing tables to function.
+
+2. Explain Dynamic Routing?
+ANS-> Dynamic routing, also called adaptive routing, is a process where a router can forward data via a different route for a given destination based on the current conditions of the communication circuits within a system.
+
+
+Topic :- Switching and VLANS
+
+. Beginner Question
+
+1. What is VLAN?
+ANS-> A virtual LAN (VLAN) is a logical overlay network that groups together a subset of devices that share a physical LAN, isolating the traffic for each group.
+
+2. Which two benefits of creating VLANs?
+ANS-> VLANs provide a number of advantages including ease of administration, confinement of broadcast domains.
+
+3. What is Dynamic VLAN?
+ANS-> Dynamic VLANs are used by network admins/engineers to fragment a network into tiered sections based on resource authorization.
+
+4. What is Static VLAN?
+ANS-> A static VLAN is a group of ports designated by the switch as belonging to the same broadcast domain. 
+
+. Intermediate Question
+
+1. What is VLAN and INTERVLAN?
+ANS-> VLANs are logical networks that partition a physical network into multiple virtual networks, and inter VLAN routing is necessary for communication between devices on different VLANs.
+ 
+2. What is trunk port?
+ANS-> A trunk port is a specific type of port on a network switch that allows data to flow across a network node for multiple virtual local area networks or VLANs.
+
+
+. Advance Question
+
+1. How to configure Trunk port?
+ANS-> To configure a trunk interface, the switchport mode trunk interface command is used. This type of interface can carry traffic of multiple VLANs. An example will help you understand the concept. VLAN 1 doesn't have to be created, it exists by default.
+
+2. How to delete VLAN information from Switch?
+ANS-> a. Select the Configuration > Ports > Ports page.
+      b. If not already selected, select the fabric and the switches to edit.
+      c. Select the ports to configure.
+      d. Select Actions > VLANs > Remove.
