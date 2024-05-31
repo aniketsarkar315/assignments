@@ -1,0 +1,344 @@
+                                                                          MODULE: 6
+                                                 
+                                                  NETWORK SECURITY, MAINTENANCE AND TROUBLESHOOTING PROCEDURES
+
+
+
+
+Topic: A SOHO Networks
+
+. Beginner Question
+
+1. What is SOHO network?
+ANS-> A Small Office Home Office (SOHO) network refers to a type of local area or LAN network connection designed for small businesses.
+
+2. What does SOHO mean networking?
+ANS-> The term small office/home office (SOHO) refers to a small business that is often run out of small office spaces, homes, or even virtually.
+
+. Intermediate Question
+
+1. How does a SOHO network work?
+ANS-> A SOHO switch acts as the central hub of SOHO networks, allowing multiple devices to connect and communicate with each other via Ethernet cabling. It provides the necessary ports, usually 4 to 8 ports, to connect computers, printers, and other network-enabled devices. SOHO switches facilitate local network communication by directing data packets to their intended destinations.
+
+2. Issues with Soho Networking?
+ANS-> Security threats come in a variety of forms for a SOHO LAN. These threats vary from simple unauthorized access on the PC hosts; to virus and malevolent software attacks on PC hosts; to spyware observing, collecting, and reporting on user activity; and finally to direct attacks by hackers from the Internet.
+
+. Advance Question
+
+1. How Small is the “S” in SOHO?
+ANS-> Short for small office/home office, SOHO refers to a category of business or cottage industry that involves fewer than ten workers.
+
+2. SOHO Routers vs. Home Routers?
+ANS-> Home Routers:- 
+      a. A router allows devices on the local network to connect to the internet and enables communication between devices within the network.
+      b. Designed for residential settings and small offices.
+      c. Provides basic functionalities to connect multiple devices to the internet through a single internet connection.
+       SOHO Routers:- 
+      a. Designed for small business environments and home offices.
+      b. Offers a balance between features, price, and performance suitable for smaller networks.
+      c. The Wireless and second Ethernet is LAN and the main Ethernet is WAN.
+
+. Topic:- NAT & PAT
+
+. Beginner Question
+
+1. What is NAT?
+ANS-> When a packet traverse outside the local (inside) network, then NAT converts that local (private) IP address to a global (public) IP address.
+
+2. What is PAT?
+ANS-> Port address translation (PAT) is a type of network address translation (NAT) that maps a network's private internal IPv4 addresses to a single public IP address.
+
+3. Different between NAT & PAT?
+ANS-> NAT(Network Address translation):-
+     a. A network address translation (NAT) is a protocol that converts the internal address for a device on a private network into a public address that can access the internet. 
+     b. This protocol commonly takes place in a router or firewall and can serve as a method of providing additional security for devices connecting through the network.
+
+    PAT(Port address translation):-
+    a. A port address translation (PAT) is a kind of dynamic NAT protocol, a subgroup of a NAT, that allows multiple devices on a single private network.
+    b. Information sent and received through the PAT connection receives a port number at the end of the IP address.
+
+. Intermediate Question
+
+1.  However, Will Nat work?
+ANS-> NAT works by having a firewall act as an intermediary for traffic entering and leaving the protected network. Inbound traffic is directed to a public-facing IP address, which is translated to an internal IP address to the firewall before sending the traffic on to its destination.
+
+2. Explain NAT?
+ANS-> Network Address Translation (NAT) is a process in which one or more local IP address is translated into one or more Global IP address and vice versa in order to provide Internet access to the local hosts. Also, it does the translation of port numbers i.e. masks the port number of the host with another port number, in the packet that will be routed to the destination.
+
+. Advance Question 
+
+1. What is different between Static & Dynamic NAT?
+ANS->  Static NAT:-
+      a. Static NAT is a one-to-one mapping of a private IP address to a public IP address.
+      b. Static NAT is useful when a network device inside a private network needs to be accessible from the internet.
+
+      Dynamic NAT:-
+      a. Dynamic NAT uses the concept of “POOL” of public IP addresses that can be assigned internal LAN endpoints dynamically.
+      b. Dynamic NAT can’t be used to NAT for servers and devices that need to be accessible from the Internet.
+
+2. NAT stand for?
+ANS-> Network Address Translation.
+
+3. PAT stand for?
+ANS-> Port address translation.
+
+Topic:- Authentication and Access Control
+
+. Beginner Question 
+
+1. What Is Acl?
+ANS-> Network Access Control List meaning a network access control list (ACL) is made up of rules that either allow access to a computer environment or deny it.
+
+2. What Are Different Types of Acl?
+ANS-> There are four different types of ACLs – standard, extended, dynamic, and reflexive.
+
+. Intermediate Question
+
+1. Explain Standard Access List?
+ANS->A standard access list is a type of ACL used to filter traffic based on the source IP address only. It is called "standard" because it uses only the first 8 bits (or the first octet) of the IP address to determine whether traffic should be permitted or denied.
+
+2. Explain Extended Access List?
+ANS-> Extended access-list is generally applied close to the source but not always. In the Extended access list, packet filtering takes place on the basis of source IP address, destination IP address, port numbers. In an extended access list, particular services will be permitted or denied.
+
+ 
+. Advance Question
+
+1. What Is Wildcard Mask?
+ANS-> A wildcard mask is a 32-bit binary number that is mainly used to indicate which bits of an IP address must match and which bits do not matter. 
+
+2. In Which Directions We Can Apply an Access List?
+ANS-> ACLs can be applied to VLANs in the inbound (ingress) and outbound (egress) directions. If no sequence number is specified, the software appends new ACEs to the end of the ACL with a sequence number equal to the highest ACE currently in the list plus 10.
+
+
+Topic: WAN Technologies
+
+. Beginner Question
+
+1. Fiber-optic communication.
+ANS-> Fiber-optic communication is a method of transmitting information from one place to another by sending pulses of infrared or visible light through an optical fiber. 
+
+2. What is Leased Line? 
+ANS-> A leased line is a bidirectional telephone line that has been rented for private voice, data exchange or telecommunication use.
+
+3. Explain Circuit switching.
+ANS-> Circuit switching is a type of network configuration in which a physical path is obtained and dedicated to a single connection between two endpoints in the network for the duration of a dedicated connection.
+
+. Intermediate Question
+
+1.  Explain Packet Switching.
+ANS-> Packet Switching is a method of grouping data into packets that are transmitted over a digital network. Packets are made of a header and a payload. Data in the header is used by routers to direct the packet to its destination, where the payload is extracted and used by an operating system, application software, or higher layer protocols. Packet switching is the primary basis for data communications in computer networks worldwide.
+
+2. What is difference between leased line and broadband?
+ANS-> Leased Line:-
+     a. A dedicated leased line offers higher reliability with its consistent data connectivity. 
+     b. It offers SLAs that guarantee an uptime of about 99.9%.
+
+     Broadband:-
+     a. Broadband offers varying connections based on certain factors that may be prone to downtime.
+     b. There is no guarantee of uptime due to variables in factors.
+
+3. How much is a 100mb Leased Line?
+ANS-> Many businesses are surprised when we reveal that the average cost of a 100Mb leased line is between £230 and £280 per month.
+
+. Advance Question
+
+1. Difference between a POTS line and a leased line?
+ANS->  POTS Line:-
+     a. Uses traditional copper phone wires.
+     b. Designed for voice calls, but can be used for dial-up internet (slow speeds).
+     c. You share the line with others, so connection speeds can vary depending on usage.
+     d. Relatively inexpensive.
+     e. Easy to install, uses existing phone jacks.
+     
+     Leased Line:-
+     a. Dedicated connection, typically uses fiber optic cables for much faster and more reliable speeds.
+     b. Can be used for voice, data, or internet access.
+     c. Private line - you don't share bandwidth with others, consistent speeds.
+     d. More expensive than POTS lines.
+     e. Installation requires professional setup, may take longer.
+
+2. What is the process of packet switching?
+ANS-> There are some steps of packet switching are as follow:-
+     a. Data split into chunks.
+     b. Each packet has a from address, to address, and payload.
+     c. If data requires multiple chunks, then the order of each packet is noted.
+     d. Packets sent onto the network, moving from router to router taking different paths.
+
+3. Difference between circuit switching and packet switching?
+ANS-> Circuit Switching:-
+     a. In-circuit switching, each data unit knows the entire path address which is provided by the source.
+     b. Data is processed at the source system only.
+     c. The delay between data units in circuit switching is uniform.
+     d. Resource reservation is the feature of circuit switching because the path is fixed for data transmission.
+     e. Circuit switching is more reliable.
+
+     Packet Switching:-
+     a. Each data unit just knows the final destination address intermediate path is decided by the routers.
+     b. Data is processed at all intermediate nodes including the source system.
+     c. The delay between data units in packet switching is not uniform.
+     d. There is no resource reservation because bandwidth is shared among users.
+     e. Packet switching is less reliable.
+
+4. Practice on printer sharing.
+ANS-> a. Select the Start button, then select Settings > Network & Internet > Wi-Fi.
+      b. Under Related settings, select Change advanced sharing options.
+      c. In the Advanced sharing settings dialog box, expand the Private section.
+      d. Under File and printer sharing, select Turn on file and printer sharing.
+
+
+Topic :- Communication technologies Cloud and Virtualization
+
+. Beginner Question 
+
+1. What is virtualization?
+ANS-> Virtualization is technology that you can use to create virtual representations of servers, storage, networks, and other physical machines.
+
+2. What are two types of virtualization in cloud?
+ANS-> There are the two types of virtualization are as follow:-
+      a. Internal Network Virtualization : extends network-like functionality to a single system.
+      b. External Network Virtualization : Combines multiple networks or its individual parts into a single virtual unit.
+
+.Intermediate Question
+
+1. What are the two types of virtualization?
+ANS-> There are two types of virtualization are as follow:-
+     a. Storage virtualization.
+     b. Network virtualization.
+
+2. What is VMware virtualization technology?
+ANS-> VMware server virtualization, a hypervisor is installed on the physical server to allow for multiple virtual machines (VMs) to run on the same physical server. Each VM can run its own operating system (OS), which means multiple OSes can run on one physical server.
+
+. Advance Question
+
+1. What is the difference between cloud and virtualization?
+ANS-> Cloud:-
+     a. Cloud computing is used to provide pools and automated resources that can be accessed on-demand.
+     b. Cloud computing setup is tedious, complicated.
+     c. Cloud computing is high scalable.
+     d. Cloud computing is Very flexible.
+     e. The workload is stateless.
+ 
+     Virtualization:-
+     a. While It is used to make various simulated environments through a physical hardware system.
+     b. While virtualization setup is simple as compared to cloud computing.
+     c. While virtualization is low scalable compared to cloud computing.
+     d. While virtualization is less flexible than cloud computing.
+     e. The workload is stateful.
+
+2. What are the benefits of implementing virtualization in cloud computing?
+ANS-> There are some benefits of implementing virtualization in cloud computing are as follow:-
+     a. Resource Utilization. 
+     b. Scalability.
+     c. Isolation.
+     d. Improved Management. 
+     e. Flexibility.
+     f. Disaster.
+     g. Performance Overhead.
+
+
+Topic :- Monitoring Tools
+
+. Beginner Question
+
+1. Why are network monitoring tools used?
+ANS-> Network monitoring provides the information that network administrators need to determine, in real time, whether a network is running optimally. 
+
+2. Explain firewalls.
+ANS-> A network security device that monitor incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+
+. Intermediate Question
+
+1. Explain core switches.
+ANS-> A core switch is a high-capacity switch generally positioned within the backbone or physical core of a network. Core switches serve as the gateway to a wide area network (WAN) or the Internet—they provide the final aggregation point for the network and allow multiple aggregation modules to work together. The definition explains its high-capacity feature, the physical location and its function of connecting multiple aggregation devices in network.
+
+2. Explain client systems.
+ANS-> Client-server networks are computer networks that employ a dedicated computer to store data, manage/provide resources, and control user access (server). The server connects all of the other computers in the network by acting as a hub. A machine that connects to the server is known as a client.
+
+. Advance Question
+  
+1. What is network management?
+ANS-> Network management is the sum total of applications, tools and processes used to provision, operate, maintain, administer and secure network infrastructure. The overarching role of network management is ensuring network resources are made available to users efficiently, effectively and quickly. It leverages fault analysis and performance management to optimize network health.
+
+2. Explain Event Viewer.
+ANS-> The Event Viewer is a tool in Windows that displays detailed information about significant events on your computer. Examples of these are programs that don't start as expected, or automatically downloaded updates. Event Viewer is especially useful for troubleshooting Windows and application errors.
+
+3. Practice "parental control" or "family safety" option in control panel.
+ANS-> a. Open Control Panel. ...
+      b. Select User Accounts And Family Safety, then choose Set Up Parental Controls For Any User.
+      c. Select the child's account.
+      d. Under Parental Controls, choose Enforce Current Settings.
+      e. Under Activity Reporting, choose Collect Information About PC Usage.
+
+
+Topic :- Network Security, Network vulnerabilities
+
+. Beginner Question
+
+1. What are network vulnerabilities?
+ANS-> A network vulnerability is a weakness or flaw in software, hardware, or organizational processes, which when compromised by a threat, can result in a security breach.
+
+2. What are the types of network security attacks?
+ANS-> There are some network security attacks are follow:-
+     a. DoS and DDoS attacks. 
+     b. MITM attacks.
+     c. Phishing attacks. 
+     d. Whale-phishing attacks. 
+     e. Spear-phishing attacks. 
+     f. Ransomware. 
+     g. Password attacks.
+     h. SQL injection attacks.
+
+. Intermediate Question 
+
+1. What is virus in network security?
+ANS-> A virus is a self-replicating program that attaches itself to legitimate programs or files on a computer. When the infected program or file is executed, the virus activates and begins its malicious activity, which can range from corrupting or deleting data to using system resources for unauthorized purposes.
+
+2. What is the difference between virus and antivirus?
+ANS-> Virus:-
+     a. Malicious software.
+     b. Infects, replicates, and spreads.
+     c. Activates when the infected file is executed.
+     d. Causes harm to systems and data.
+     e. File infector viruses, boot sector viruses.
+
+     Antivirus:-
+     a. Protective software.
+     b. Detects, prevents, and removes malware.
+     c. Runs continuously to monitor for threats.
+     d. Protects systems and data from harm.
+     e. Standalone antivirus, internet security suites.
+
+. Advance Question
+
+1. Who is vulnerable in network security?
+ANS-> Any device connected to a network poses a hardware-based security risk if managed improperly. Hardware vulnerabilities include firewalls, Wi-Fi routers, IoT devices, and employees' use of unauthorized devices. Software vulnerabilities include operating systems and applications.
+ 
+2. How do you assess vulnerability?
+ANS-> There are steps of assess vulnerability are as follow:-
+     a. Planning and Preparation.
+     b. Information Gathering and Analysis.
+     c. Vulnerability Identification.
+     d. Vulnerability Analysis.
+     e. Reporting and Documentation. 
+     f. Remediation and Mitigation.
+     g. Verification and Follow-Up.
+
+3. What are the principles of network security?
+ANS-> There are three principles of network security are follow:-
+     a. Confidentiality:- 
+     Confidentiality measures are designed to prevent unauthorized disclosure of information. The purpose of the confidentiality principle is to keep personal information private and to ensure that it is visible and accessible only to those individuals who own it or need it to perform their organizational functions.
+     b. Integrity:-
+     Consistency includes protection against unauthorized changes (additions, deletions, alterations, etc.) to data. The principle of integrity ensures that data is accurate and reliable and is not modified incorrectly, whether accidentally or maliciously.
+     c. Availability:- 
+     Availability is the protection of a system’s ability to make software systems and data fully available when a user needs it. The purpose of availability is to make the technology infrastructure, the applications and the data available when they are needed for an organizational process or for an organization’s customers.
+
+4. What is a firewall to use for?
+ANS-> The primary use of a firewall in networking is to secure the network from cyberattacks. For example, a firewall prevents malicious and unwanted content from entering your environment. As well, a firewall protects vulnerable systems and private data in the network from unauthorized access–such as hackers or insiders.
+
+5. configure advanced firewall setting?
+ANS-> a. Secure the firewall. 
+      b. Establish firewall zones and an IP address structure. 
+      c. Configure access control lists (ACLs).
+      d. Configure other firewall services and logging. 
+      e. Test the firewall configuration. 
+      f. Manage firewall continually.
